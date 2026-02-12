@@ -20,7 +20,7 @@ To install required packages to run notebooks in this repository, first use term
     
 Activate this environment (note, if you are running this on a personal computer instead of a server, you will use `conda activate` instead of `source activate`):
 
-    source activate ~/conda_envs/waterdig  
+    source activate ~/conda-envs/waterdig  
 
 Install all packages listed in the requirements.txt file:
 
